@@ -33,7 +33,7 @@ The Alarm Clock application is a simple Python GUI program built using the tkint
 ## Screenshots 📸
 
 ###  Alarm Screen
-![](Alaram.png)
+![](/Alaram.png)
 
 
 
